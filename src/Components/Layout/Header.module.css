@@ -1,0 +1,68 @@
+.header {
+    position: fixed;
+    top:0;
+    left: 0;
+    width: 100%;
+    background-color: black;
+    height: 2.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 10;
+    
+    
+}
+
+.header span {
+    color:white;
+    padding: 2%;
+    margin: 20px;
+    
+}
+
+.heading
+{
+padding: 3rem;
+font-size: 1.2rem;
+text-align: center;
+background-color: aqua;
+left:0;
+width:100%
+}
+.music{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.header a:hover,
+  .header a:active,
+  .header a.active {
+    color: #95bcf0;
+    padding-bottom: 0.25rem;
+    border-bottom: 4px solid #95bcf0;
+  }
+
+  .header a{
+    color: #95bcf0;
+    text-decoration: none;
+    margin: 100px;
+  }
+
+  /* .active{
+    color: #95bcf0;
+    padding-bottom: 0.25rem;
+    border-bottom: 4px solid #95bcf0;
+  } */
+
+  .logoutButton
+  {
+    background-color: black;
+    color: white;
+    border: 2px solid blue;
+    padding: 5px;
+    border-radius: 11px;
+    margin-left: 35px;
+
+  }

@@ -1,0 +1,31 @@
+.section{
+    display: flex;
+    flex-direction: row;
+}
+
+.image{
+    width:300px;
+    height: 350px;
+    margin: 15px;
+    padding: 15px;
+}
+
+.section img{
+    width:300px;
+    height: 350px;
+}
+
+.section div{
+    margin: 25px;
+}
+
+.section span{
+    padding: 45px;
+}
+.price{
+    margin-left: -45px;
+}
+
+.similar{
+    margin-left: 27px
+}

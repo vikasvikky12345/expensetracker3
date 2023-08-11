@@ -1,0 +1,11 @@
+.button{
+    border-color: blue;
+    background-color: black;
+    padding: 6px;
+    border-radius: 11.5px;
+}
+
+.button span{
+    color:white;
+    margin:2px
+}
